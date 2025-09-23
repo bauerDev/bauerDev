@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Rocío!.
+# 👋 ¡Hola! Soy Rocío!
 
 🎯 **Data Analyst en formación** con foco en el manejo, visualización y análisis de datos.  
 📚 Actualmente estudiante de **2º de Desarrollo de Aplicaciones Web (DAW)**.  
@@ -39,7 +39,7 @@
 
 ## 📫 Conecta conmigo
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)]([https://linkedin.com/in/TULINK](https://www.linkedin.com/in/roc%C3%ADo-escudero-mart%C3%ADn/)) [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:analyticslab.rem@gmail.com)
+[[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/rocío-escudero-martín/) [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:analyticslab.rem@gmail.com)
 
 ---
 
