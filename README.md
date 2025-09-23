@@ -1,10 +1,64 @@
-## Soy Rocío 🌱 
+# 👋 ¡Hola! Soy BauerDev (Ro para los amigos).
 
-🎓 Estudiante de 2º de Desarrollo de Aplicaciones Web (DAW) con ganas de crecer profesionalmente en el sector tecnológico. Me apasiona crear soluciones útiles a través del código y ya he desarrollado pequeños proyectos personales como un sistema de gestión para una banda de música o una web personal con HTML, CSS y JavaScript.
+🎯 **Data Analyst en formación** con foco en el manejo, visualización y análisis de datos.  
+📚 Actualmente estudiante de **2º de Desarrollo de Aplicaciones Web (DAW)**.  
+🚀 Apasionado por combinar **tecnologías de análisis** con **desarrollo web** para crear soluciones completas y útiles.
 
-👨‍💻 Me estoy formando en tecnologías como MySQL, Git, Python y JavaScript. Actualmente busco una empresa en la que realizar mis prácticas FCT el próximo curso. He trabajado en entornos que me han dado la posibilidad de poner a prueba mis conocimientos, así como habilidades clave: organización, responsabilidad y trato con personas.
+---
 
-🌍 Además, tengo formación previa en Estudios de Asia Oriental, hablo coreano, inglés y español, y doy clases en una academia de idiomas. Esto me ha ayudado a desarrollar paciencia, habilidades de comunicación y una visión global que también aplico en el mundo de la tecnología..
+## 🛠️ Tech Stack & Herramientas
 
-🚀 Me interesa especialmente el análisis de datos, la programación limpia y todo lo relacionado con aprender y mejorar día a día.
+### 🔎 Data & Analytics  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)  
+
+---
+
+### 🌐 Desarrollo Web (DAW)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+
+---
+
+### ⚙️ Otras herramientas  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)  
+
+---
+
+## 📊 Stats de GitHub
+
+![Tus Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical)
+
+---
+
+## 🚀 Proyectos Destacados
+- [📊 DataInsights](https://github.com/TUUSUARIO/DataInsights): Scripts en Python para limpiar datasets y generar dashboards.  
+- [🌐 Portfolio Web](https://github.com/TUUSUARIO/portfolio): Mi portfolio personal hecho con React + Tailwind.  
+- [📈 Power BI Reports](https://github.com/TUUSUARIO/powerbi-reports): Dashboards interactivos para distintos casos de negocio.  
+
+---
+
+## 📫 Conecta conmigo
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/TULINK)  
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:TUCORREO@gmail.com)  
+
+---
+
+⚡ *“Los datos cuentan historias, yo me encargo de traducirlas en decisiones.”*
+
 
