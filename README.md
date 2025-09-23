@@ -39,7 +39,7 @@
 
 ## 📫 Conecta conmigo
 
-[[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/rocío-escudero-martín/) [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:analyticslab.rem@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/rocío-escudero-martín/) [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:analyticslab.rem@gmail.com)
 
 ---
 
