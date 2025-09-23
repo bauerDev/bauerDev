@@ -26,14 +26,14 @@
 ## 📊 Stats de GitHub
 
 ![Tus Stats](https://github-readme-stats.vercel.app/api?username=bauerDev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bauerDev&layout=compact&theme=radical)
 
 ---
 
 ## 🚀 Proyectos Destacados
-- [📊 DataInsights](https://github.com/TUUSUARIO/DataInsights): Scripts en Python para limpiar datasets y generar dashboards.  
-- [🌐 Portfolio Web](https://github.com/TUUSUARIO/portfolio): Mi portfolio personal hecho con React + Tailwind.  
-- [📈 Power BI Reports](https://github.com/TUUSUARIO/powerbi-reports): Dashboards interactivos para distintos casos de negocio.  
+- [📊 DataInsights](https://github.com/bauerDev/DataInsights): Scripts en Python para limpiar datasets y generar dashboards.  
+- [🌐 Portfolio Web](https://github.com/bauerDev/portfolio): Mi portfolio personal hecho con React + Tailwind.  
+- [📈 Power BI Reports](https://github.com/bauerDev/powerbi-reports): Dashboards interactivos para distintos casos de negocio.  
 
 ---
 
