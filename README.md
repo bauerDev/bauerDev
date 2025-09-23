@@ -25,7 +25,7 @@
 
 ## 📊 Stats de GitHub
 
-![Tus Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=radical)  
+![Tus Stats](https://github-readme-stats.vercel.app/api?username=bauerDev&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=radical)
 
 ---
