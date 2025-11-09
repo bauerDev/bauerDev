@@ -24,8 +24,6 @@
 ---
 
 ## 📊 Stats de GitHub
-
-![Tus Stats](https://github-readme-stats.vercel.app/api?username=bauerDev&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bauerDev&layout=compact&theme=radical)
 
 ---
